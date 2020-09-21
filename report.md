@@ -1,11 +1,8 @@
 ---
-title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
-  Report
-author: "by Xiaodan (Sally) Zhang"
-output:
-  html_document:
-    fig_height: 9
-    fig_width: 9
+title: Practical Machine Learning Project 
+author: "by Divyang Soni"
+output: html_document:
+ 
 ---
 
 ## Introduction  
